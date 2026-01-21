@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I'm Motoko 👋
 
-<!--
-**moto-2525/moto-2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Ms.Engineer 修了
+- フロントエンド・バックエンドを横断して学習
+- チーム開発で「人と技術をつなぐ役割」を大切にしています
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- JavaScript / TypeScript  
+- React / Next.js  
+- HTML / CSS  
+- Tailwind CSS  
+
+### Backend
+- Node.js / Express  
+- FastAPI  
+- REST API 設計  
+- SQLAlchemy / Prisma  
+
+### Database
+- PostgreSQL  
+- MySQL  
+
+### AI / LLM
+- OpenAI API  
+- プロンプト設計（出力制御・UXを意識した設計）
+
+### Authentication / Storage
+- Firebase Authentication  
+- Firebase Storage  
+
+### Tools
+- Git / GitHub  
+
+### Works
+- Dent Log（チーム開発・フルスタック）
+  - 歯科検診・治療履歴を管理するWebアプリ
+  - フロントとバックエンドの連携を意識したAPI設計を担当
