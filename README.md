@@ -1,9 +1,15 @@
 ## Hi, I'm Motoko 👋
 
 ### About Me
-- Ms.Engineer 修了
-- フロントエンド・バックエンドを横断して学習
-- チーム開発で「人と技術をつなぐ役割」を大切にしています
+- チーム開発が行えるプログラミングスクールに25年9月に入学。26年１月に修了。
+- フルスタックでのチーム開発経験有り。
+- チーム開発では自分の実装担当箇所に責任をもつことはもちろん、コミュニケーションを大事にすることで、他機能との認識のズレがないか常に気を配るようにしています。
+  また、よりよい実装のために自分の考えに固執するのではなく、チームメイトの視点を重要視する視点を大事にしています。
+
+- I enrolled in a programming school focused on team-based development in September 2025 and completed the program in January 2026.
+- I have experience in full-stack team development.
+- In team projects, I take responsibility for my assigned implementation while placing a strong emphasis on communication to ensure alignment across different features.
+- Rather than sticking rigidly to my own ideas, I value my teammates’ perspectives and prioritize collaborative thinking to achieve better implementations.
 
 ## 🛠 Tech Stack
 
