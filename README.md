@@ -1,10 +1,10 @@
 ## Hi, I'm Motoko 👋
 
 ### About Me
-- チーム開発が行えるプログラミングスクールに25年9月に入学。26年１月に修了。
+- チーム開発が行えるプログラミングスクールに25年9月に入学。26年1月に修了。
 - フルスタックでのチーム開発経験有り。
 - チーム開発では自分の実装担当箇所に責任をもつことはもちろん、コミュニケーションを大事にすることで、他機能との認識のズレがないか常に気を配るようにしています。
-  また、よりよい実装のために自分の考えに固執するのではなく、チームメイトの視点を重要視する視点を大事にしています。
+  また、よりよい実装のために自分の考えに固執するのではなく、チームメイトの視点を重要視することを大事にしています。
 
 - I enrolled in a programming school focused on team-based development in September 2025 and completed the program in January 2026.
 - I have experience in full-stack team development.
@@ -56,3 +56,8 @@
 - Dent Log（チーム開発・フルスタック）
   - 歯科検診・治療履歴を管理するWebアプリ
   - フロントとバックエンドの連携を意識したAPI設計を担当
+
+---
+
+### 📫 Contact
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tomotom23734271)
