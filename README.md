@@ -5,6 +5,9 @@
 - フロントエンド・バックエンドを横断して学習
 - チーム開発で「人と技術をつなぐ役割」を大切にしています
 
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moto-2525&layout=compact)
+
 ## 🛠 Tech Stack
 
 ### Frontend
