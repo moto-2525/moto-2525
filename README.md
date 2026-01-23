@@ -26,16 +26,17 @@
 ### Design / Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### AI / LLM
-- OpenAI API  
-- プロンプト設計（出力制御・UXを意識した設計）
+### 🤖 AI / LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Authentication / Storage
-- Firebase Authentication  
-- Firebase Storage  
+### 🔐 Authentication / Storage
+![Firebase](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools
-- Git / GitHub
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moto-2525&layout=compact)
