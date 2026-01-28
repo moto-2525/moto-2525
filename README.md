@@ -62,3 +62,4 @@
 ### 📫 Contact
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tomotom23734271)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toko.0803/)
+[![note](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=bookstack&logoColor=white)](https://note.com/to_ko0529)
