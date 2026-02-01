@@ -1,15 +1,12 @@
 ## Hi, I'm Motoko 👋
 
 ### About Me
-- チーム開発が行えるプログラミングスクールに25年9月に入学。26年1月に修了。
-- フルスタックでのチーム開発経験有り。
-- チーム開発では自分の実装担当箇所に責任をもつことはもちろん、コミュニケーションを大事にすることで、他機能との認識のズレがないか常に気を配るようにしています。
-  また、よりよい実装のために自分の考えに固執するのではなく、チームメイトの視点を重要視することを大事にしています。
+- チーム開発を重視するプログラミングスクールにて、フルスタック開発を学習（2025年9月〜2026年1月修了）
+- Webアプリケーションの設計から実装までを、フロントエンド・バックエンド横断で経験
+- チーム開発においては、担当実装の責任を果たすことに加え、認識のズレを防ぐためのコミュニケーションを重視
+- 実装方針については自分の考えに固執せず、チームメンバーの視点を取り入れながら、より良い設計・実装を目指す姿勢を大切にしている
 
-- I enrolled in a programming school focused on team-based development in September 2025 and completed the program in January 2026.
-- I have experience in full-stack team development.
-- In team projects, I take responsibility for my assigned implementation while placing a strong emphasis on communication to ensure alignment across different features.
-- Rather than sticking rigidly to my own ideas, I value my teammates’ perspectives and prioritize collaborative thinking to achieve better implementations.
+---
 
 ## 🛠 Tech Stack
 
@@ -25,53 +22,52 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-- REST API設計 / MVC構成
 
 ### Database / Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ORM: Prisma / SQLAlchemy
 
 ### Design / Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🤖 AI / LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🔐 Authentication / Storage
-![Firebase](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moto-2525&show_icons=true&hide_border=true)
+---
 
-### Works
-- Dent Log（チーム開発・フルスタック）
-  - 歯科検診・治療履歴を管理するWebアプリ
-  - フロントとバックエンドの連携を意識したAPI設計を担当
+## 🧩 Works
 
-- 家計簿アプリ（個人開発）
-  - フロントエンド（Next.js）とバックエンド（Express）を分離した構成
-  - 入出金管理・収支集計 API の設計・実装
-  - Prisma + MySQL を用いたデータ操作
-  - バックエンド README に API 仕様を明文化
+### Dent Log（チーム開発・フルスタック）
+- 歯科検診・治療履歴を管理する Web アプリケーションを開発
+- フロントエンドとバックエンドの責務を意識した API 設計を担当
+- チーム内での実装方針共有やレビューを通じて、機能間の整合性を担保
 
-### Experience / Strengths
-- フロントエンドとバックエンドを分離した構成での開発経験
-- API 設計・レスポンス設計を意識した実装
-- README / 設計書による仕様の言語化
-- GitHub を用いた PR・commit ベースの開発
+### 家計簿アプリ（個人開発）
+- フロントエンド（Next.js）とバックエンド（Express）を分離した構成で設計・実装
+- 入出金管理・収支集計 API を設計・実装
+- Prisma + MySQL を用いたデータベース操作を実装
+- README にて API 仕様を言語化し、設計意図を明確化
+
+### 技術記事執筆（Zenn）
+- Google Apps Script / JavaScript を中心に、学習過程での理解整理や気づきを記事としてアウトプット
+- 「概念が分からない理由」を分解し、初学者目線で言語化することを重視
+- 実務・学習の双方で再利用できる知識の蓄積を意識
+
+👉 https://zenn.dev/motoko_2525
 
 ---
 
-### 📫 Contact
+## 🚀 Experience / Strengths
+- フロントエンド・バックエンドを分離した構成で設計・実装する
+- API 設計・レスポンス設計を意識して実装する
+- README や設計書を用いて仕様や意図を言語化する
+- GitHub を用いた PR ベースの開発フローでチーム開発を行う
+- 認識のズレを防ぐため、コミュニケーションを主体的に取る
+
+---
+
+## 📫 Contact
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tomotom23734271)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/motoko_2525)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toko.0803/)
