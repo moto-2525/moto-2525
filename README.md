@@ -29,6 +29,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### AI / LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ### Design / Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,8 +53,7 @@
 - README にて API 仕様を言語化し、設計意図を明確化
 
 ### 技術記事執筆（Zenn）
-- Google Apps Script / JavaScript を中心に、学習過程での理解整理や気づきを記事としてアウトプット
-- 「概念が分からない理由」を分解し、初学者目線で言語化することを重視
+- 初学者目線で言語化することを重視
 - 実務・学習の双方で再利用できる知識の蓄積を意識
 
 👉 https://zenn.dev/motoko_2525
