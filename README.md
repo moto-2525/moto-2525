@@ -50,7 +50,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moto-2525&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moto-2525&layout=compact&langs_count=6&hide_border=true)
 
 ### Works
 - Dent Log（チーム開発・フルスタック）
@@ -73,5 +73,6 @@
 
 ### 📫 Contact
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tomotom23734271)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/motoko_2525)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toko.0803/)
 [![note](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=bookstack&logoColor=white)](https://note.com/to_ko0529)
