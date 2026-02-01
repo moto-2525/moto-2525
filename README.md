@@ -50,7 +50,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moto-2525&layout=compact&langs_count=6&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moto-2525&show_icons=true&hide_border=true)
 
 ### Works
 - Dent Log（チーム開発・フルスタック）
